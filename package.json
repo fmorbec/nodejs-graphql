@@ -1,6 +1,18 @@
 {
   "name": "nodejs-graphql",
   "version": "1.0.0",
+  "author": "Fabio Morbec",
+  "keywords": [
+    "nodejs",
+    "graphql",
+    "express",
+    "javascript"
+  ],
+  "homepage": "https://github.com/fmorbec/nodejs-graphql?tab=readme-ov-file#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmorbec/nodejs-graphql.git"
+  },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
